@@ -490,6 +490,14 @@ footer ul li a {
     color: #000;
 }
 
+
+/* new css */
+
+section#blog {
+    background: rgb(12, 90, 142);
+    background: linear-gradient(180deg, rgba(12, 90, 142, 1) 0%, rgba(161, 194, 211, 1) 43%, rgba(255, 255, 255, 1) 82%);
+}
+
 @media screen and (min-width: 1920px) {
     header,
     main,
