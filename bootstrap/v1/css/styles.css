@@ -431,6 +431,12 @@ footer ul li a {
     }
 }
 
+@media screen and (max-width: 991px) {
+    header .navbar-nav .nav-item .nav-link {
+        border-radius: 0;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .desk {
         display: none;
